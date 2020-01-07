@@ -1,2 +1,1 @@
-# paper
-论文阅读
+pygame练习
